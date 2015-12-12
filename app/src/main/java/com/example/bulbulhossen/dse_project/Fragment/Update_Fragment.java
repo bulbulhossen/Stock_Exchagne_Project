@@ -36,7 +36,7 @@ public class Update_Fragment extends Fragment {
         View rootView = inflater.inflate(R.layout.update_fragment, container, false);
 
 
-
+            //Rian ei part tor
 
         String[] data =new String[]{"Top 20 Share","Market Statistics","Latest Share Price","Circuit Breaker","Top 10 Gainers","Top Losers"
         ,"Recent Market Information","Monthly Review & Graphs","Comparison Of Market","AGM/EGM","Local Price"
