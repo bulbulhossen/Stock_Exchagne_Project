@@ -22,7 +22,8 @@
         <activity android:name=".Home_page.Signup" />
         <activity android:name=".Home_page.Reset" />
         <activity android:name=".Home_page.Login" />
-        <activity android:name=".Fragment.Market_Statistics"></activity>
+        <activity android:name=".Fragment.Market_Statistics" />
+        <activity android:name=".Home_page.Change_password"></activity>
     </application>
 
 </manifest>
